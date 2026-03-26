@@ -2,7 +2,7 @@
 # SOC Detection Lab – SSH Brute Force Attack
 
 ## Overview
-This project simulates a real-world cybersecurity scenario where a server is targeted by a brute-force SSH attack.
+This project simulates a real-world cybersecurity scenario where an attacker attempts to brute-force SSH access to a server, and you detect the attack by analyzing system logs, identifying repeated failed login attempts from a specific IP, and using a Python script to flag suspicious behavior—demonstrating practical skills in threat detection, log analysis, and basic incident response.
 
 The objective is to detect malicious activity using log analysis and basic automation.
 
